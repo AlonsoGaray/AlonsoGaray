@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alonsogaray&label=Profile%20views&color=0e75b6&style=flat" alt="alonsogaray" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alonsogaray" alt="alonsogaray" /></a> </p>
-
 - 🌱 I’m currently learning **Remix, Next.js**
 
 - 💬 Ask me about **React, Typescript, NodeJs, MEARN**
