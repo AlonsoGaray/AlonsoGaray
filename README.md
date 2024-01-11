@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alonsogaray&label=Profile%20views&color=0e75b6&style=flat" alt="alonsogaray" /> </p>
 
-- 🌱 I’m currently learning **Remix, Next.js**
+- 🌱 I’m currently learning **Angular, Next.js, Java, Spring Boot, Astro**
 
 - 💬 Ask me about **React, Typescript, NodeJs, MEARN**
 
