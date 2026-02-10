@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alonsogaray&label=Profile%20views&color=0e75b6&style=flat" alt="alonsogaray" /> </p>
 
-- 🌱 I’m currently learning **Angular, Next.js, Java, Spring Boot, Astro**
+- 🌱 I’m currently learning **NestJs, Next.js, Astro**
 
-- 💬 Ask me about **React, Typescript, NodeJs, MEARN**
+- 💬 Ask me about **Javascript, Typescript, React, NodeJs, NestJs MEARN**
 
 - 📫 How to reach me **alonsogarayp@gmail.com**
 
